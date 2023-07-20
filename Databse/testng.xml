@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="REST_API" verbose="1">
+    <test name="REST_API_Tests">
+        <classes>
+            <class name="tests.UpdateAndDeleteRowTest"/>
+            <class name="tests.TimerStartTimeTest"/>
+        </classes>
+    </test>
+</suite>

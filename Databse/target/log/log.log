@@ -1,0 +1,226 @@
+2023-03-24 11:59:25 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2023-03-24 11:59:25 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2023-03-24 11:59:31 DEBUG - Set '15' timeout in seconds for loading of pages
+2023-03-24 11:59:31 DEBUG - Set async javascript execution timeout '10' in seconds
+2023-03-24 11:59:31 INFO  - Browser 'CHROME' ready...
+2023-03-24 12:00:29 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2023-03-24 12:00:29 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2023-03-24 12:00:32 DEBUG - Set '15' timeout in seconds for loading of pages
+2023-03-24 12:00:32 DEBUG - Set async javascript execution timeout '10' in seconds
+2023-03-24 12:00:32 INFO  - Browser 'CHROME' ready...
+2023-03-24 12:00:33 INFO  - Maximizing browser window
+2023-03-24 12:00:33 INFO  - Navigate to url - 'https://userinyerface.com/'
+2023-03-24 12:00:33 INFO  - Waiting for page to load
+2023-03-24 12:00:35 INFO  - Closing browser
+2023-03-24 12:01:01 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2023-03-24 12:01:01 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2023-03-24 12:01:06 DEBUG - Set '15' timeout in seconds for loading of pages
+2023-03-24 12:01:06 DEBUG - Set async javascript execution timeout '10' in seconds
+2023-03-24 12:01:06 INFO  - Browser 'CHROME' ready...
+2023-03-24 15:04:16 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2023-03-24 15:04:16 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2023-03-24 15:04:27 DEBUG - Set '15' timeout in seconds for loading of pages
+2023-03-24 15:04:27 DEBUG - Set async javascript execution timeout '10' in seconds
+2023-03-24 15:04:27 INFO  - Browser 'CHROME' ready...
+2023-03-24 15:04:28 INFO  - Closing browser
+2023-03-24 15:10:36 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2023-03-24 15:10:36 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2023-03-24 15:10:38 DEBUG - Set '15' timeout in seconds for loading of pages
+2023-03-24 15:10:38 DEBUG - Set async javascript execution timeout '10' in seconds
+2023-03-24 15:10:38 INFO  - Browser 'CHROME' ready...
+2023-03-24 15:10:39 INFO  - Maximizing browser window
+2023-03-24 15:10:39 INFO  - Navigate to url - 'https://userinyerface.com/'
+2023-03-24 15:10:41 INFO  - Waiting for page to load
+2023-03-24 15:10:41 INFO  - Link 'Link_next_page' :: Clicking
+2023-03-24 15:10:41 INFO  - Label 'Timer' :: Getting text from element
+2023-03-24 15:10:41 INFO  - Label 'Timer' :: Element's text: [00:00:00]
+2023-03-24 15:11:52 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2023-03-24 15:11:52 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2023-03-24 15:11:55 DEBUG - Set '15' timeout in seconds for loading of pages
+2023-03-24 15:11:55 DEBUG - Set async javascript execution timeout '10' in seconds
+2023-03-24 15:11:55 INFO  - Browser 'CHROME' ready...
+2023-03-24 15:11:56 INFO  - Closing browser
+2023-03-24 18:32:13 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2023-03-24 18:32:13 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2023-03-24 18:32:18 DEBUG - Set '15' timeout in seconds for loading of pages
+2023-03-24 18:32:18 DEBUG - Set async javascript execution timeout '10' in seconds
+2023-03-24 18:32:18 INFO  - Browser 'CHROME' ready...
+2023-03-24 18:32:19 INFO  - Closing browser
+2023-03-27 14:12:47 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2023-03-27 14:12:47 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2023-03-27 14:12:55 DEBUG - Set '15' timeout in seconds for loading of pages
+2023-03-27 14:12:55 DEBUG - Set async javascript execution timeout '10' in seconds
+2023-03-27 14:12:55 INFO  - Browser 'CHROME' ready...
+2023-03-27 14:12:56 INFO  - Maximizing browser window
+2023-03-27 14:12:56 INFO  - Navigate to url - 'https://userinyerface.com/'
+2023-03-27 14:12:57 INFO  - Waiting for page to load
+2023-03-27 14:12:57 INFO  - Link 'Link_next_page' :: Clicking
+2023-03-27 14:12:58 INFO  - Label 'Timer' :: Getting text from element
+2023-03-27 14:12:58 INFO  - Label 'Timer' :: Element's text: [00:00:00]
+2023-03-27 14:13:23 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2023-03-27 14:13:23 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2023-03-27 14:13:26 DEBUG - Set '15' timeout in seconds for loading of pages
+2023-03-27 14:13:26 DEBUG - Set async javascript execution timeout '10' in seconds
+2023-03-27 14:13:26 INFO  - Browser 'CHROME' ready...
+2023-03-27 14:13:26 INFO  - Maximizing browser window
+2023-03-27 14:13:27 INFO  - Navigate to url - 'https://userinyerface.com/'
+2023-03-27 14:13:27 INFO  - Waiting for page to load
+2023-03-27 14:13:27 INFO  - Link 'Link_next_page' :: Clicking
+2023-03-27 14:13:28 INFO  - Label 'Timer' :: Getting text from element
+2023-03-27 14:13:28 INFO  - Label 'Timer' :: Element's text: [00:00:00]
+2023-03-27 14:13:29 INFO  - Closing browser
+2023-03-27 14:28:09 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2023-03-27 14:28:09 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2023-03-27 14:28:13 DEBUG - Set '15' timeout in seconds for loading of pages
+2023-03-27 14:28:13 DEBUG - Set async javascript execution timeout '10' in seconds
+2023-03-27 14:28:13 INFO  - Browser 'CHROME' ready...
+2023-03-27 14:28:14 INFO  - Maximizing browser window
+2023-03-27 14:28:14 INFO  - Navigate to url - 'https://userinyerface.com/'
+2023-03-27 14:28:15 INFO  - Waiting for page to load
+2023-03-27 14:28:15 INFO  - Closing browser
+2023-03-27 14:29:19 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2023-03-27 14:29:19 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2023-03-27 14:29:22 DEBUG - Set '15' timeout in seconds for loading of pages
+2023-03-27 14:29:22 DEBUG - Set async javascript execution timeout '10' in seconds
+2023-03-27 14:29:22 INFO  - Browser 'CHROME' ready...
+2023-03-27 14:29:22 INFO  - Maximizing browser window
+2023-03-27 14:29:22 INFO  - Navigate to url - 'https://userinyerface.com/'
+2023-03-27 14:29:23 INFO  - Waiting for page to load
+2023-03-27 14:29:23 INFO  - Closing browser
+2023-03-27 14:31:16 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2023-03-27 14:31:16 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2023-03-27 14:31:19 DEBUG - Set '15' timeout in seconds for loading of pages
+2023-03-27 14:31:19 DEBUG - Set async javascript execution timeout '10' in seconds
+2023-03-27 14:31:19 INFO  - Browser 'CHROME' ready...
+2023-03-27 14:31:19 INFO  - Closing browser
+2023-03-27 14:38:25 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2023-03-27 14:38:25 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2023-03-27 14:38:28 DEBUG - Set '15' timeout in seconds for loading of pages
+2023-03-27 14:38:29 DEBUG - Set async javascript execution timeout '10' in seconds
+2023-03-27 14:38:29 INFO  - Browser 'CHROME' ready...
+2023-03-27 14:38:29 INFO  - Closing browser
+2023-03-27 14:41:12 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2023-03-27 14:41:12 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2023-03-27 14:41:14 DEBUG - Set '15' timeout in seconds for loading of pages
+2023-03-27 14:41:14 DEBUG - Set async javascript execution timeout '10' in seconds
+2023-03-27 14:41:14 INFO  - Browser 'CHROME' ready...
+2023-03-27 14:41:15 INFO  - Maximizing browser window
+2023-03-27 14:41:15 INFO  - Navigate to url - 'https://userinyerface.com/'
+2023-03-27 14:41:16 INFO  - Waiting for page to load
+2023-03-27 14:41:17 INFO  - Closing browser
+2023-03-27 14:56:25 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2023-03-27 14:56:25 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2023-03-27 14:56:30 DEBUG - Set '15' timeout in seconds for loading of pages
+2023-03-27 14:56:30 DEBUG - Set async javascript execution timeout '10' in seconds
+2023-03-27 14:56:30 INFO  - Browser 'CHROME' ready...
+2023-03-27 14:56:31 INFO  - Maximizing browser window
+2023-03-27 14:56:32 INFO  - Navigate to url - 'https://userinyerface.com/'
+2023-03-27 14:56:33 INFO  - Waiting for page to load
+2023-03-27 14:56:35 INFO  - Closing browser
+2023-03-27 19:55:57 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2023-03-27 19:55:57 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2023-03-27 19:56:04 DEBUG - Set '15' timeout in seconds for loading of pages
+2023-03-27 19:56:04 DEBUG - Set async javascript execution timeout '10' in seconds
+2023-03-27 19:56:04 INFO  - Browser 'CHROME' ready...
+2023-03-27 19:56:04 INFO  - Maximizing browser window
+2023-03-27 19:56:04 INFO  - Navigate to url - 'https://userinyerface.com/'
+2023-03-27 19:56:06 INFO  - Waiting for page to load
+2023-03-27 19:56:07 INFO  - Closing browser
+2023-03-28 13:02:37 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2023-03-28 13:02:37 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2023-03-28 13:02:41 DEBUG - Set '15' timeout in seconds for loading of pages
+2023-03-28 13:02:41 DEBUG - Set async javascript execution timeout '10' in seconds
+2023-03-28 13:02:41 INFO  - Browser 'CHROME' ready...
+2023-03-28 13:02:41 INFO  - Maximizing browser window
+2023-03-28 13:02:41 INFO  - Navigate to url - 'https://userinyerface.com/'
+2023-03-28 13:02:43 INFO  - Waiting for page to load
+2023-03-28 13:02:44 INFO  - Closing browser
+2023-03-28 13:20:23 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2023-03-28 13:20:23 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2023-03-28 13:20:26 DEBUG - Set '15' timeout in seconds for loading of pages
+2023-03-28 13:20:26 DEBUG - Set async javascript execution timeout '10' in seconds
+2023-03-28 13:20:26 INFO  - Browser 'CHROME' ready...
+2023-03-28 13:20:26 INFO  - Maximizing browser window
+2023-03-28 13:20:26 INFO  - Navigate to url - 'https://userinyerface.com/'
+2023-03-28 13:20:28 INFO  - Waiting for page to load
+2023-03-28 13:20:29 INFO  - Closing browser
+2023-03-28 14:38:43 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2023-03-28 14:38:43 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2023-03-28 14:38:46 DEBUG - Set '15' timeout in seconds for loading of pages
+2023-03-28 14:38:46 DEBUG - Set async javascript execution timeout '10' in seconds
+2023-03-28 14:38:46 INFO  - Browser 'CHROME' ready...
+2023-03-28 14:38:46 INFO  - Maximizing browser window
+2023-03-28 14:38:46 INFO  - Navigate to url - 'https://userinyerface.com/'
+2023-03-28 14:38:48 INFO  - Waiting for page to load
+2023-03-28 14:38:49 INFO  - Closing browser
+2023-03-28 14:51:21 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2023-03-28 14:51:21 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2023-03-28 14:51:23 DEBUG - Set '15' timeout in seconds for loading of pages
+2023-03-28 14:51:23 DEBUG - Set async javascript execution timeout '10' in seconds
+2023-03-28 14:51:23 INFO  - Browser 'CHROME' ready...
+2023-03-28 14:51:23 INFO  - Maximizing browser window
+2023-03-28 14:51:23 INFO  - Navigate to url - 'https://userinyerface.com/'
+2023-03-28 14:51:25 INFO  - Waiting for page to load
+2023-03-28 14:51:26 INFO  - Closing browser
+2023-03-28 14:52:03 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2023-03-28 14:52:03 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2023-03-28 14:52:05 DEBUG - Set '15' timeout in seconds for loading of pages
+2023-03-28 14:52:05 DEBUG - Set async javascript execution timeout '10' in seconds
+2023-03-28 14:52:05 INFO  - Browser 'CHROME' ready...
+2023-03-28 14:52:05 INFO  - Maximizing browser window
+2023-03-28 14:52:06 INFO  - Navigate to url - 'https://userinyerface.com/'
+2023-03-28 14:52:07 INFO  - Waiting for page to load
+2023-03-28 14:52:08 INFO  - Closing browser
+2023-03-29 13:38:01 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2023-03-29 13:38:01 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2023-03-29 13:38:06 DEBUG - Set '15' timeout in seconds for loading of pages
+2023-03-29 13:38:06 DEBUG - Set async javascript execution timeout '10' in seconds
+2023-03-29 13:38:06 INFO  - Browser 'CHROME' ready...
+2023-03-29 13:38:06 INFO  - Maximizing browser window
+2023-03-29 13:38:06 INFO  - Navigate to url - 'https://userinyerface.com/'
+2023-03-29 13:38:08 INFO  - Waiting for page to load
+2023-03-29 13:38:10 INFO  - Closing browser

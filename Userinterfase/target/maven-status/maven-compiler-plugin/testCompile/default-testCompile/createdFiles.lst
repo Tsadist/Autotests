@@ -1,0 +1,14 @@
+pages\AuthorizationForm.class
+pages\enums\CheckBoxTwoCard.class
+tests\CookiesTest.class
+pages\AvatarAndInterests.class
+pages\forms\UploadFile.class
+tests\TimerStartTimeTest.class
+pages\HomePage.class
+pages\enums\DomainPointOneCard.class
+tests\BaseTest.class
+utils\AuthenticationData.class
+tests\HelpFormTest.class
+pages\PersonalDetails.class
+utils\Randomizer.class
+tests\FirstThreeCardsTest.class

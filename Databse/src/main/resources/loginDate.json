@@ -1,0 +1,6 @@
+{
+  "driver": "com.mysql.cj.jdbc.Driver",
+  "dataURL": "jdbc:mysql://localhost:3306/union_reporting",
+  "username": "root",
+  "password": "902452wtw"
+}

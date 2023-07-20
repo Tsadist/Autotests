@@ -1,0 +1,10 @@
+pages\AuthorizationForm.class
+tests\TimerStartTimeTest.class
+pages\HomePage.class
+tests\steps\ActionsWithTableTest.class
+tests\BaseTest.class
+utils\TestTableUtils.class
+utils\Randomizer.class
+models\TestDate.class
+models\UnionReportingTest.class
+tests\UpdateAndDeleteRowTest.class
